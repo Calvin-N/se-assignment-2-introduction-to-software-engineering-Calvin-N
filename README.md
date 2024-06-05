@@ -42,11 +42,11 @@ What is requirements engineering? Describe the process and its importance in the
        Answer: 
               Requirements Engineering (RE) is the systematic process of defining, documenting, and maintaining the requirements for a software system. It is a critical phase in the software development lifecycle (SDLC) that ensures the final product meets the needs and expectations of the stakeholders. Requirements engineering involves various activities to gather, analyze, specify, validate, and manage software requirements.
 
-                Importance of Requirements Engineering:
-              i. Alignment with Stakeholder Needs: Ensures that the final product aligns with the stakeholders' expectations and requirements, reducing the risk of project failure.
-              ii. Scope Definition: Clearly defines the scope of the project, helping to avoid scope creep and ensuring that all necessary features are included.
-              iii. Communication and Collaboration: Enhances communication and collaboration among stakeholders, developers, and other project participants by providing a common understanding of the project requirements.
-              iv. Cost and Time Estimation: Provides a basis for accurate cost and time estimation, facilitating better project planning and resource allocation.
+Importance of Requirements Engineering:
+    i. Alignment with Stakeholder Needs: Ensures that the final product aligns with the stakeholders' expectations and requirements, reducing the risk of project failure.
+    ii. Scope Definition: Clearly defines the scope of the project, helping to avoid scope creep and ensuring that all necessary features are included.
+    iii. Communication and Collaboration: Enhances communication and collaboration among stakeholders, developers, and other project participants by providing a common understanding of the project requirements.
+    iv. Cost and Time Estimation: Provides a basis for accurate cost and time estimation, facilitating better project planning and resource allocation.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? 
 Testing in Software Engineering:
